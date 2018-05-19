@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyIncome</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="Paid">שולם</string>
+    <string name="client">מטופל</string>
+    <string name="payment_amount">תשלום</string>
+    <string name="comment">הערה</string>
+    <string name="date">תאריך</string>
+    <string name="hour">שעה</string>
+    <string name="save">שמור</string>
+    <string name="missing_amount">חסר סכום</string>
+    <string name="missing_client">חסר לקוח</string>
+    <string name="missing_job_type">חסר סוג לקוח</string>
+    <string name="action_done">סיים</string>
+    <string name="title_activity_sessions">כל מפגשים</string>
+    <string name="mixed">Mixed</string>
+    <string name="Other">אחר</string>
+    <string name="swedish_massage">עיסוי שוודי</string>
+    <string name="thai_massage">עיסוי תאילנדי</string>
+    <string name="no_session_types_yet">עדיין אין סוגי מפגש</string>
+    <string name="session_type">סוג מפגש</string>
+    <string name="paid">שולם</string>
+    <string name="new_client">לקוח חדש…</string>
+    <string name="new_session_type">סוג מפגש חדש…</string>
+    <string name="oops">אופס…</string>
+    <string name="something_happened_cant_save_session">משהו קרה, אי אפשר לשמור את המפגש.\nנסה להפעיל את האפליקציה מחדש.</string>
+    <string name="delete_all_sessions">מחיקת כל המפגשים</string>
+    <string name="delete_all_sessions_msg">האם למחוק את כל המפגשים? לא ניתן לבטל את הפעולה!</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="by_clients">לקוחות</string>
+    <string name="by_sessionTypes">סוגי מפגש</string>
+    <string name="compare_to_other_months">ביחס לחודשים אחרים</string>
+    <string name="total_income_this_month">הכנסות</string>
+    <string name="title_activity_new_session">מפגש חדש</string>
+    <string name="all_sessions">כל המפגשים</string>
+    <string name="key_work_calendar">יומן עבודה</string>
+    <string name="title_activity_ChooseCalendar">בחר יומן</string>
+
+    <string name="pref_title_work_calendar">יומן עבודה</string>
+    <string name="sign_out">נתק חשבון</string>
+    <string name="title_activity_settings">הגדרות</string>
+
+</resources>

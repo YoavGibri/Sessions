@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "799877361205",
+    "firebase_url": "https://myincome-ca9ff.firebaseio.com",
+    "project_id": "myincome-ca9ff",
+    "storage_bucket": "myincome-ca9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799877361205:android:975f3d8f933b6bb3",
+        "android_client_info": {
+          "package_name": "com.yoavgibri.myincome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799877361205-mli3ahntcctns3qt1n45tif6obij2vi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yoavgibri.myincome",
+            "certificate_hash": "d990a63465d86faa2b7e10c51b731a875bcdc4ba"
+          }
+        },
+        {
+          "client_id": "799877361205-iedeo3i08vtgr5pdrfkk08ak22du7m3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yoavgibri.myincome",
+            "certificate_hash": "710d35e0f7ff142632ec4fb3a9a03e162d5084d8"
+          }
+        },
+        {
+          "client_id": "799877361205-21mp4010lvo6oar2os8b7i3fbt5sovmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugl_f6FVJ96Mo4JOSDoQ6Bxy1OoLg_w4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

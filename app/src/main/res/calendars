@@ -1,0 +1,77 @@
+calendar_displayName=Phone
+calendar_displayName=yoavgibri@gmail.com
+calendar_displayName=rotem.bittan@gmail.com
+calendar_displayName=עבודה רותם
+ownerAccount=0n4fs15beujfj6h395h068hvug@group.calendar.google.com
+calendar_displayName=מסכי לדים
+ownerAccount=tfpaog9qks1tqggjil5t1cudbc@group.calendar.google.com
+calendar_displayName=ליאור אבני
+ownerAccount=dunp5j1qd4jgcfk3j6g5hk4vb4@group.calendar.google.com
+calendar_displayName=דני פלוס
+ownerAccount=rtv4l7l71oipjjgipsai6dthrs@group.calendar.google.com
+calendar_displayName=ימי הולדת
+ownerAccount=#contacts@group.v.calendar.google.com
+calendar_displayName=Holidays in Israel
+ownerAccount=en.jewish#holiday@group.v.calendar.google.com
+calendar_displayName=חגים בישראל
+ownerAccount=iw.jewish#holiday@group.v.calendar.google.com
+ctivity: queryDeviceCalendars: 0 {
+            _id=1
+            account_name=Phone
+            calendar_displayName=Phone
+            ownerAccount=Phone
+         }
+ctivity: queryDeviceCalendars: 1 {
+            _id=2
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=yoavgibri@gmail.com
+            ownerAccount=yoavgibri@gmail.com
+         }
+ctivity: queryDeviceCalendars: 2 {
+            _id=3
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=rotem.bittan@gmail.com
+            ownerAccount=rotem.bittan@gmail.com
+         }
+ctivity: queryDeviceCalendars: 3 {
+            _id=4
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=עבודה רותם
+            ownerAccount=0n4fs15beujfj6h395h068hvug@group.calendar.google.com
+         }
+ctivity: queryDeviceCalendars: 4 {
+            _id=5
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=מסכי לדים
+            ownerAccount=tfpaog9qks1tqggjil5t1cudbc@group.calendar.google.com
+         }
+ctivity: queryDeviceCalendars: 5 {
+            _id=6
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=ליאור אבני
+            ownerAccount=dunp5j1qd4jgcfk3j6g5hk4vb4@group.calendar.google.com
+         }
+ctivity: queryDeviceCalendars: 6 {
+            _id=7
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=דני פלוס
+            ownerAccount=rtv4l7l71oipjjgipsai6dthrs@group.calendar.google.com
+         }
+ctivity: queryDeviceCalendars: 7 {
+            _id=8
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=ימי הולדת
+            ownerAccount=#contacts@group.v.calendar.google.com
+         }
+ctivity: queryDeviceCalendars: 8 {
+            _id=9
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=Holidays in Israel
+            ownerAccount=en.jewish#holiday@group.v.calendar.google.com
+         }
+ctivity: queryDeviceCalendars: 9 {
+            _id=10
+            account_name=yoavgibri@gmail.com
+            calendar_displayName=חגים בישראל
+            ownerAccount=iw.jewish#holiday@group.v.calendar.google.com
+         }

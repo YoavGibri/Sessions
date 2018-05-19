@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">MyIncome</string>
+    <string name="service_desc" translatable="false">Helper Service for Calendar changes</string>
+    <string name="action_settings">Settings</string>
+    <string name="Paid">Paid</string>
+    <string name="client">Client</string>
+    <string name="payment_amount">Payment</string>
+    <string name="comment">Comment</string>
+    <string name="date">Date</string>
+    <string name="hour">Hour</string>
+    <string name="save">Save</string>
+    <string name="missing_amount">Missing Amount</string>
+    <string name="missing_client">Missing Client</string>
+    <string name="missing_job_type">Missing Job Type</string>
+    <string name="action_done">Done</string>
+    <string name="title_activity_sessions">Sessions</string>
+    <string name="mixed">Mixed</string>
+    <string name="Other">Other</string>
+    <string name="swedish_massage">Swedish Massage</string>
+    <string name="thai_massage">Thai Massage</string>
+    <string name="no_session_types_yet">No session types yet</string>
+    <string name="session_type">Session Type</string>
+    <string name="paid">Paid</string>
+    <string name="new_client">New client…</string>
+    <string name="new_session_type">New session type…</string>
+    <string name="oops">Oops…</string>
+    <string name="something_happened_cant_save_session">Something happened, can\'t save your session.\nTry relaunching the application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_login" translatable="false">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password (optional)</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="delete_all_sessions">Delete all sessions</string>
+    <string name="delete_all_sessions_msg">Are you sure you want to delete all of your sessions? this cannot be undone!</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="by_clients">Clients</string>
+    <string name="by_sessionTypes">Session Types</string>
+    <string name="compare_to_other_months">Compare to other months</string>
+    <string name="total_income_this_month">Income</string>
+    <string name="title_activity_new_session">New Session</string>
+    <string name="all_sessions">All Sessions</string>
+    <string name="key_work_calendar">Work Calendar</string>
+    <string name="title_activity_ChooseCalendar">Choose a calendar</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general" translatable="false">General</string>
+
+    <string name="pref_title_social_recommendations" translatable="false">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations" translatable="false">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_session_name_single">Session Name (Single)</string>
+    <string name="pref_title_sessions_name_plural">Sessions Name (Plural)</string>
+    <!--<string name="pref_default_sessions_name" translatable="false">John Smith</string>-->
+
+    <string name="pref_title_work_calendar">Work Calendar</string>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync" translatable="false">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency" translatable="false">Sync frequency</string>
+
+
+    <string-array name="multi_select_list_preference_default_value"/>
+
+    <string name="pref_title_system_sync_settings" translatable="false">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications" translatable="false">Notifications</string>
+
+    <string name="pref_title_new_message_notifications" translatable="false">New message notifications</string>
+
+    <string name="pref_title_ringtone" translatable="false">Ringtone</string>
+    <string name="pref_ringtone_silent" translatable="false">Silent</string>
+
+    <string name="pref_title_vibrate" translatable="false">Vibrate</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="key_session_name_single">session_name_single</string>
+    <string name="key_sessions_name_plural">sessions_name_plural</string>
+
+
+</resources>

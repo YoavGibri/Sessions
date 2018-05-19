@@ -1,0 +1,137 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yoavgibri.myincome.Fragments.StatsFragment"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/md_white_1000">
+
+        <TextView
+            android:id="@+id/textViewDateTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="30dp"
+            android:paddingTop="20dp"
+            android:text="אפריל 2017"
+            android:textColor="@color/md_black_1000"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="20dp"
+            android:text="@string/total_income_this_month"
+            android:textColor="@color/md_black_1000"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            >
+
+            <TextView
+                android:id="@+id/textViewCurrency"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:textSize="20sp"
+                android:text="₪"
+                android:gravity="right"
+                />
+
+            <TextView
+                android:id="@+id/textViewMonthIncome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:text="0"
+                android:textColor="@color/colorAccent"
+                android:textSize="50sp"
+                />
+
+            <TextView
+                android:id="@+id/textViewTargetIncome"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:textSize="20sp"
+                android:text="/10,000"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="50dp"
+            android:paddingTop="20dp"
+            android:text="@string/by_clients"
+            android:textColor="@color/md_black_1000"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            />
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pieChartClients"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="50dp"
+            android:paddingTop="20dp"
+            android:id="@+id/textViewSessionTypes"
+            android:text="@string/by_sessionTypes"
+            android:textColor="@color/md_black_1000"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            />
+
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pieChartSessionTypes"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="50dp"
+            android:paddingTop="20dp"
+            android:text="@string/compare_to_other_months"
+            android:textColor="@color/md_black_1000"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            />
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/barChartMonths"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="100dp"
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>
